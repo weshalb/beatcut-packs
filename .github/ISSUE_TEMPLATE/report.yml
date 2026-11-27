@@ -1,0 +1,16 @@
+name: Report a pack
+description: Report a problem with a pack listed in the store.
+title: "Pack report: "
+body:
+  - type: input
+    id: pack-id
+    attributes:
+      label: Pack ID
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+    validations:
+      required: true
