@@ -1,1 +1,38 @@
-{"version":1,"packs":[]}
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "sukhoi-su-30-ac8baf2b",
+      "name": "Sukhoi Su-30",
+      "author": "lykia",
+      "tags": [
+        "jet",
+        "fighter-jet",
+        "military",
+        "aviation"
+      ],
+      "clip_count": 135,
+      "total_seconds": 150.183333,
+      "size_bytes": 616655820,
+      "sha256": "53ba3153c6ffe4573a044cc8dfe7b29a47603662e366af96af39034af0fa4a31",
+      "created": "2026-11-27T12:34:55.675274+00:00",
+      "github_user": "weshalb",
+      "zip_url": "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/sukhoi-su-30.zip",
+      "cover_url": "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/cover.jpg",
+      "preview_urls": [
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-01.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-02.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-03.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-04.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-05.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-06.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-07.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-08.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-09.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-10.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-11.jpg",
+        "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-12.jpg"
+      ]
+    }
+  ]
+}
