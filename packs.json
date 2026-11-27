@@ -33,6 +33,38 @@
         "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-11.jpg",
         "https://github.com/weshalb/beatcut-pack-sukhoi-su-30/releases/download/build-ac8baf2b/preview-12.jpg"
       ]
+    },
+    {
+      "id": "satoru-gojo-ff6057bb",
+      "name": "Satoru_Gojo",
+      "author": "lykia",
+      "tags": [
+        "Jujutsu_Kaisen",
+        "Gojo",
+        "Satoru"
+      ],
+      "clip_count": 129,
+      "total_seconds": 313.85,
+      "size_bytes": 309982689,
+      "sha256": "aedfabcd5b49d067d3082a7acbb761174406533543e5cdc1dc696b195ebe4c2b",
+      "created": "2026-11-27T13:29:49.801515+00:00",
+      "github_user": "weshalb",
+      "zip_url": "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/satoru-gojo.zip",
+      "cover_url": "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/cover.jpg",
+      "preview_urls": [
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-01.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-02.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-03.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-04.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-05.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-06.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-07.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-08.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-09.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-10.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-11.jpg",
+        "https://github.com/weshalb/beatcut-pack-satoru-gojo/releases/download/build-ff6057bb/preview-12.jpg"
+      ]
     }
   ]
 }
